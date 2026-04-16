@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 360">
+<rect width="620" height="360" rx="24" fill="#0f1c3f"/>
+<rect x="248" y="125" width="124" height="82" rx="18" fill="#f4dea0"/>
+<text x="310" y="175" text-anchor="middle" font-family="Arial" font-size="30" font-weight="700" fill="#5a4312">CLIENTE</text>
+<rect x="35" y="48" width="150" height="70" rx="16" fill="#a9e6f6"/><text x="110" y="90" text-anchor="middle" font-family="Arial" font-size="26" fill="#103245">Presencial</text>
+<rect x="435" y="48" width="150" height="70" rx="16" fill="#a9e6f6"/><text x="510" y="90" text-anchor="middle" font-family="Arial" font-size="26" fill="#103245">Teléfono</text>
+<rect x="35" y="245" width="150" height="70" rx="16" fill="#a9e6f6"/><text x="110" y="287" text-anchor="middle" font-family="Arial" font-size="26" fill="#103245">Correo</text>
+<rect x="435" y="245" width="150" height="70" rx="16" fill="#a9e6f6"/><text x="510" y="287" text-anchor="middle" font-family="Arial" font-size="30" fill="#103245">_____</text>
+<line x1="185" y1="82" x2="248" y2="145" stroke="#ffffff" stroke-width="5"/>
+<line x1="435" y1="82" x2="372" y2="145" stroke="#ffffff" stroke-width="5"/>
+<line x1="185" y1="280" x2="248" y2="190" stroke="#ffffff" stroke-width="5"/>
+<line x1="435" y1="280" x2="372" y2="190" stroke="#ffffff" stroke-width="5"/>
+</svg>

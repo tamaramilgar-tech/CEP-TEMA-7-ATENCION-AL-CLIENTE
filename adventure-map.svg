@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420">
+<defs>
+<linearGradient id="bg" x1="0" x2="1"><stop offset="0" stop-color="#1b1745"/><stop offset="1" stop-color="#2b225f"/></linearGradient>
+</defs>
+<rect width="600" height="420" rx="24" fill="url(#bg)"/>
+<polygon points="300,35 555,365 45,365" fill="#f3d08a" stroke="#fff4cc" stroke-width="5"/>
+<line x1="110" y1="280" x2="490" y2="280" stroke="#8d6322" stroke-width="4"/>
+<line x1="160" y1="205" x2="440" y2="205" stroke="#8d6322" stroke-width="4"/>
+<line x1="210" y1="135" x2="390" y2="135" stroke="#8d6322" stroke-width="4"/>
+<text x="300" y="340" font-size="34" text-anchor="middle" font-family="Arial" font-weight="700" fill="#2e1d00">FISIOLÓGICAS</text>
+<text x="300" y="255" font-size="30" text-anchor="middle" font-family="Arial" font-weight="700" fill="#2e1d00">SEGURIDAD</text>
+<text x="300" y="183" font-size="30" text-anchor="middle" font-family="Arial" font-weight="700" fill="#2e1d00">SOCIALES</text>
+<text x="300" y="88" font-size="26" text-anchor="middle" font-family="Arial" font-weight="700" fill="#5d1b00">AUTORREALIZACIÓN</text>
+<rect x="252" y="148" width="96" height="26" rx="10" fill="#fff7dd" stroke="#8d6322" stroke-width="2"/>
+<text x="300" y="166" font-size="18" text-anchor="middle" font-family="Arial" font-weight="700" fill="#7a5525">_____</text>
+</svg>
